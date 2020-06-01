@@ -1,0 +1,6 @@
+diff a/feature.txt b/feature.txt	(rejected hunks)
+@@ -0 +0 @@
+-line 1
+\ No newline at end of file
++line 1line 2
+\ No newline at end of file
